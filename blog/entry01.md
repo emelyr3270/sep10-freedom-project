@@ -20,6 +20,8 @@ I decided to start my own project to see how animators work, and let me tell you
 
 <h4> How to google </h4> 
 As someone who has been on the internet since such a young age, i never truly learned how to google information correctly. I've always looked at the results from "People also ask" and called it a day from there. But through my research, i've learned how to dive in deeper and ask more detailed questions to get my answer. 
+<h4> Managing time </h4>
+In my personaly life, i have a lot of things going on. With school and sports, it messes up my schedule. When i was completing this blog, i was able to manage my time by creating a checklist. I was able to submit things on time and complete my work!!
 
 <h1> Next Steps</h1>
 I'm looking foward to researching the procedure of animation!
