@@ -2,7 +2,8 @@
 Topic: **X**
 
 ## Overview/Introduction/Context
-* Text
+What is Animation?
+Anitmation is a 
 * Text
 
 ## Part A: existing technology
