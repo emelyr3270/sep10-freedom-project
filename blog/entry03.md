@@ -1,7 +1,7 @@
 # Entry 3
-##### X/X/XX
+##### 12/01/25
 
-Text
+In my conent.md, ive explained my future ideas that'll help Animators have a more sufficent and easy way in creating animation. The main thing that i thought of was problems that traditional artists have. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
