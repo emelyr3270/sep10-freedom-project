@@ -21,6 +21,7 @@ When researching, I gathered as much information i could find to see how i can d
 I learned how to think creatively by inputing my information of animation and thinking of possible solutions to make animation easier for others. I also created sketching of how my ideas could come to live. It helped me see a clear visual of my brainstorming and allowed my creativity to do its thing. 
 
 ## Next steps
+From all the information i just gathered from this blog, I will use it to start putting the pieces of my project to come together. 
 
 
 
