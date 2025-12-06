@@ -14,7 +14,13 @@ To help me brainstorm my ideas, I looked for any recent tools that helps with an
 Currently, Im in the brainstorming stage of my EDP. By doing this, i researched tools/hardwares and softwares that already exists that help animators create their animation. I then thought of ways that could help animators speed up their process and combinding a mixture of traditional and digital animation. Then i planned innovations that weren't created yet. 
 
 ## Skills 
+###  Data Collection: 
+When researching, I gathered as much information i could find to see how i can develop innovations to create my very own idea. I was able to obvserve how one got and idea and why. 
 
+### Creative thinking skills:
+I learned how to think creatively by inputing my information of animation and thinking of possible solutions to make animation easier for others. I also created sketching of how my ideas could come to live. It helped me see a clear visual of my brainstorming and allowed my creativity to do its thing. 
+
+## Next steps
 
 
 
