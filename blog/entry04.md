@@ -1,8 +1,8 @@
 # Entry 4
 ##### 03/09/26
 
-Figuring out what Tool to use
-
+<h2> Context </h2>
+<pp> I was experimenting different tools and learning how to use them for my web design </pp>
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
