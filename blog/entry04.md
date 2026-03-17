@@ -36,6 +36,8 @@
 </html>
 
 ```
+<h2>Engineering Design Process</h2>
+<p> Currently im learning how to use and better understand my A-frame tool so im able to apply it on my website based on animation. From using this tool, ill be able to make my wbesite responsive and make it more appealing. </p>
 
 <h2>Skills</h2>
 <p>I learned how to research things by myself. These past few months in SEP, my teacher Mr Mueller has been giving us guides to learn different coding skills. This time, we are on our own to learn about the tool we chose. It had help me better understand how to research and become curious about my tool. </p>
