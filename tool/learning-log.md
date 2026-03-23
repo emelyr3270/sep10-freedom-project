@@ -1,11 +1,17 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: A-frame
 
 ---
 
-### X/X/XX:
-* Text
+### 03/22/2026:
+* Properties
+  ---
+  `<a-box></a-box>`
+  `<a-sphere></a-sphere>`
+  `<a-entity></a-entity>`
+  #### Position
+  ``` <a-box position="o 1 -3"></a-box> ```
 
 ### X/X/XX:
 * Text
