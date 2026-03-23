@@ -10,7 +10,7 @@
   `<a-box></a-box>`
   `<a-sphere></a-sphere>`
   `<a-entity></a-entity>`
-  #### Position
+  ### Position
   ``` <a-box position="o 1 -3"></a-box> ```
 
 ### X/X/XX:
