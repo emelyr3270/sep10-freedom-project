@@ -5,13 +5,19 @@
 ---
 
 ### 03/22/2026:
-* Properties
+* Properties learned
   ---
   `<a-box></a-box>`
   `<a-sphere></a-sphere>`
   `<a-entity></a-entity>`
   ### Position
-  ``` <a-box position="o 1 -3"></a-box> ```
+  
+  ```
+   <a-box position="o 1 -3"></a-box>
+   ```
+  * `x` left or right
+  * `y` up or down
+  * `z` foward or back
 
 ### X/X/XX:
 * Text
