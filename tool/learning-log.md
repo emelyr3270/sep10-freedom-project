@@ -6,7 +6,7 @@
 
 ### 03/22/2026:
 * Properties learned
-  ---
+
   `<a-box></a-box>`
   `<a-sphere></a-sphere>`
   `<a-entity></a-entity>`
@@ -19,13 +19,27 @@
   * `y` up or down
   * `z` foward or back
     
----
  ### Links 
 <p>https://threejs.org/</p>
 <p> https://youtu.be/K_1RdCVuu98?si=dSa9S8zRhbQCguhs </p>
 <p> https://youtu.be/NckGgCJ0XGY?si=TsBkW_hwRpEZaOdD </p>
 <p> https://youtu.be/jhEfT9YjLcU?si=3OY_PcQm-kDvLv5z </p>
 
+---
+
+### 04/12/2026
+Entities are basically container objects into which components can be attached. 
+Ex:
+* Box = Position + Geometry + Material
+* Light Bulb = Position + Light + Geometry + Material + Shadow
+* Sign = Position + Geometry + Material + Text
+* VR Controller = Position + Rotation + Input + Model + Grab + Gestures
+* Ball = Position + Velocity + Physics + Geometry + Material
+* Player = Position + Camera + Input + Avatar + Identity
+
+  #### Syntax
+  
+``` <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}"> ```
 
 <!-- 
 * Links you used today (websites, videos, etc)
