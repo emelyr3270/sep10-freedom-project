@@ -38,8 +38,25 @@ Ex:
 * Player = Position + Camera + Input + Avatar + Identity
 
   #### Syntax
+
+### 04/15/2026
+For my Freedom Porject, by using A-frame, i want to use properties of entity component systems. From my knowledge of entity properties, im going to learn Responsive UI to make my website pop out vwhen the user responds to it. 
+Wednesday: Practicing how to use entities into the components, basically just tinkering around with it. Ill also takes notes on watching this video: https://www.youtube.com/watch?v=jhEfT9YjLcU 
+Thursday: Using my IDE, im going to try coding and tinkering with `<a-sphere>` to learn how positioning, rotation and shaping to make an `<a-scene>`
+Friday: I'll start to build a 360 gallery and expand my learning on different permimitives
+  * `<a-camera>`
+```
+  <a-scene>
+  <a-box></a-box>
+  <a-camera></a-camera>
+  </a-scene>
+```
+
   
-``` <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}"> ```
+
+```
+<a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}"> 
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
