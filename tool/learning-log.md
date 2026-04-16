@@ -54,7 +54,17 @@ Thursday: Using my IDE, im going to try coding and tinkering with `<a-sphere>` t
   </a-scene>
 ```
 
+### 04/16/2026
+<h4> 
   
+  Tinkering with `<a-sphere>` 
+  
+  </h3>
+  
+``` <a-sphere color="yellow" radius="5"></a-sphere>```
+  
+
+<!-->
 
 ```
 <a-entity ${componentName}="${propertyName1}: ${propertyValue1}; ${propertyName2}: ${propertyValue2}"> 
