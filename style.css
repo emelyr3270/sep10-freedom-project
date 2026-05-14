@@ -8,6 +8,18 @@ h1 {
   padding: 2px;
 }
 
+body {
+  /* Replace with your image path or URL */
+  background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdwbWk4dTcxZTZvNHJzeGMxdmx0bng1b2N0Ynd0NXI4bXo3bWo5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margi
+
+
+
 
 .navbar {
     box-shadow: 0 2px 10px rgba(0,0,0,0.3);
