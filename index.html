@@ -118,6 +118,18 @@
 
     </div>
 
+    <h2 class= "bsoftware"> Here is an animation scene made in FlipaClip created by me! </h2>
+   <div class="image-animation">
+
+  <img
+    src="https://github.com/emelyr3270/sep10-freedom-project/blob/main/Website%20animation.gif?raw=true"
+    class="side-img"
+    alt="Animation GIF">
+
+</div>
+
+
+
     <!-- ALIGHT MOTION -->
 
     <div class="software-card">
@@ -246,6 +258,110 @@
         <p class= "text-center3"> Anipen: This hardware is basically a paper device that helps traditonal animators import their paper drawings on a computer. The paper device is reusable and when you draw on it, it'll be seen on the computer. You can use materials like Paintbrushes, pencils, markers, colored penicls, or oil pastels!!</p>
 
 </section>
+
+
+
+
+  <meta charset="utf-8">
+  <title>A-Frame Small Box</title>
+
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+
+
+<body>
+
+  <div class="scene-box">
+
+    <a-scene embedded>
+
+      <!-- Camera -->
+      <a-entity
+        camera
+        position="0 1.6 3">
+      </a-entity>
+
+      <!-- Lights -->
+      <a-light type="ambient" intensity="1"></a-light>
+      <a-light type="directional" position="1 2 1"></a-light>
+
+      <!-- Ground -->
+      <a-plane
+        rotation="-90 0 0"
+        width="10"
+        height="10"
+        color="#7BC8A4">
+      </a-plane>
+
+      <!-- Model -->
+      <a-entity
+        gltf-model="url(model.glb)"
+        position="0 0 -2"
+        rotation="0 45 0"
+        scale="1 1 1">
+
+<a-entity position="0 1 -3">
+
+  <!-- Pencil Body -->
+  <a-cylinder
+    position="0 0 0"
+    radius="0.08"
+    height="1.2"
+    color="#F4C542"
+    rotation="0 0 90">
+  </a-cylinder>
+
+  <!-- Pencil Tip Wood -->
+  <a-cone
+    position="0.65 0 0"
+    radius-bottom="0.08"
+    radius-top="0"
+    height="0.18"
+    color="#D2A679"
+    rotation="0 0 -90">
+  </a-cone>
+
+  <!-- Graphite Point -->
+  <a-cone
+    position="0.75 0 0"
+    radius-bottom="0.03"
+    radius-top="0"
+    height="0.08"
+    color="#333333"
+    rotation="0 0 -90">
+  </a-cone>
+
+  <!-- Metal Band -->
+  <a-cylinder
+    position="-0.52 0 0"
+    radius="0.085"
+    height="0.05"
+    color="#C0C0C0"
+    rotation="0 0 90">
+  </a-cylinder>
+
+  <!-- Eraser -->
+  <a-cylinder
+    position="-0.62 0 0"
+    radius="0.08"
+    height="0.15"
+    color="#FF8FA3"
+    rotation="0 0 90">
+  </a-cylinder>
+
+</a-entity>
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
 
 
 
