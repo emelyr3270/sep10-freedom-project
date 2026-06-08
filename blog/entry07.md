@@ -31,7 +31,13 @@ In my SEP10 class i have learned many new concepts that ive applied onto my free
 ## EDP
 Now that the year has come to an end, i have completed my knowledge in sep10 and finished my freedom project. I wonder what plans i have ahead of me in the future.
 
+---
 
+### Here are some links on my presentation: 
+
+<a href= "https://docs.google.com/presentation/d/1a4V2O92trXFcPTnQ7HuExpujP032WXiEsSILSkSrlgA/edit?slide=id.g3e31e866768_0_26#slide=id.g3e31e866768_0_26"> Presentation slides </a>.
+
+[My presentation plan](prep/presentation.md)
 
 [Previous](entry06.md) | [Next](entry08.md)
 
